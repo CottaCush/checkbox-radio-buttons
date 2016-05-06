@@ -1,0 +1,19 @@
+{
+  "name": "keyboard-submit",
+  "version": "0.0.1",
+  "description": "Disable or enable the browser's default behaviour of submitting a form when the enter key is pressed on any of it's children input elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CottaCush/keyboard-submit.git"
+  },
+  "author": "Cotta & Cush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CottaCush/keyboard-submit/issues"
+  },
+  "homepage": "https://github.com/CottaCush/keyboard-submit#readme"
+}
