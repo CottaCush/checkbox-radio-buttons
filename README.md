@@ -5,7 +5,7 @@ Disables or enables the browser's default behaviour of submitting a form when th
 
 Please note that this plugin requires [jQuery](http://jquery.com).
 
- ## Usage
+## Usage
  The plugin can be used in the following ways:
  1. through the presence of a form's `data-` attribute.
  2. through the jQuery interface `$.keyboardSubmit()`
@@ -37,7 +37,7 @@ You can also activate the plugin it's defined jQuery method
   $(form).keyboardSubmit(true)
   ```
 
-  ## Valid Actions
+## Valid Actions
 The following are valid actions that can be used with the plugin
 
 
